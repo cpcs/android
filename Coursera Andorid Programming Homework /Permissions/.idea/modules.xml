@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab3b_DangerousApp/Lab3b_DangerousApp.iml" filepath="$PROJECT_DIR$/Lab3b_DangerousApp/Lab3b_DangerousApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3b_PermissionsLab/Lab3b_PermissionsLab.iml" filepath="$PROJECT_DIR$/Lab3b_PermissionsLab/Lab3b_PermissionsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3b_PermissionsLabTest/Lab3b_PermissionsLabTest.iml" filepath="$PROJECT_DIR$/Lab3b_PermissionsLabTest/Lab3b_PermissionsLabTest.iml" />
+    </modules>
+  </component>
+</project>
